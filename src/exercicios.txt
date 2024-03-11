@@ -1,0 +1,10 @@
+### Exercícios professor+aluno###
+0 – algoritmo “Olá mundo!”
+1 – algoritmo “Ler nome usuário” e exibe a mensagem “Boa tarde <nome do usuario>”
+2-Crie um algoritmo que a entrada seja o ano de nascimento e a saída seja a idade.
+
+### Exercícios aluno###
+0- Crie um algoritmo que a saída seja a frase Meu primeiro programa!
+1- Crie um algoritmo onde o usuário digite seu nome e essa informação seja colocada em uma variável chamada nome e
+depois exiba a mensagem “Meu nome é <nome_usuário_digitou>”.
+2-Crie um algoritmo que calcula o balanco do mês da loja do Mr. Bean.
